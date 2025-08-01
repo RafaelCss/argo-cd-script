@@ -19,7 +19,7 @@ Este repositório contém um script PowerShell para instalar o [Argo CD](https:/
 ### 2. Clonar este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone [https://github.com/seu-usuario/seu-repo.git](https://github.com/RafaelCss/argo-cd-script)
 cd seu-repo
 ```
 
