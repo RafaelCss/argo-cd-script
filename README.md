@@ -17,11 +17,8 @@ Este repositório contém um script PowerShell para instalar o [Argo CD](https:/
 - Clique em **Apply & Restart**
 
 ### 2. Clonar este repositório
+[https://github.com/RafaelCss/argo-cd-script](https://github.com/RafaelCss/argo-cd-script/)
 
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
-```
 
 ### 3. Executar o script de instalação
 
